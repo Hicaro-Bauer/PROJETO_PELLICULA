@@ -1,4 +1,4 @@
-# Projeto-PELLICULA-
+# PROJETO_PELLICULA
 Trabalho de conclusão de Matéria. Nessa ocasião, foram utilizadas as linguagens HTML5, CSS3, PHP e MySQL. Com grande destaque na estruturação das pastas, seguindo o modelo MVC.
 
 <h4> O banco de dados utilizado no projeto se encontra na pasta "sql" </h4>
