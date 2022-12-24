@@ -23,7 +23,7 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foram utilizadas as linguage
 <img src="https://user-images.githubusercontent.com/105173431/209452044-904f6037-8ec8-40e1-b47d-36ac79035ca0.png"/>
 
 <br/><br/>
-<h2> Por meio de um laço forEach e Integração com MySQL, os comentários são salvos e listados. </h2>
+<h2> Por meio de um laço forEach e Integração com MySQL, os comentários são salvos e listados para cada pertencente à eles. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209452054-064b40af-9689-44f1-84ee-e0cc03300563.png"/>
 
 <br/><br/>
