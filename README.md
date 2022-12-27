@@ -3,6 +3,7 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foram utilizadas as linguage
 
 <h4> O banco de dados utilizado no projeto se encontra na pasta "sql" </h4>
 
+<div align="center">
 <h2> Tela Deslogado </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209451990-afd0e315-2cf2-468c-9125-8fc8a3d9fc8a.png"/>
 
@@ -53,5 +54,5 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foram utilizadas as linguage
 <br/><br/>
 <h2> A tela individual desse filme é gerada automaticamente. Caso seja do seu interesse, já é possível realizar avaliações. </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209452154-aa367dfe-9983-4897-823d-75c0ebf75074.png"/>
-
+</div>
 
